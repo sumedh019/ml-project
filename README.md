@@ -34,7 +34,7 @@ The dataset contains synthetic pulsar signal data with the following features:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/xlr8-git/Binary-Classification-with-a-PulsarDataset.git
+   git clone https://github.com/sumedh019/ml-project
    cd Binary-Classification-with-a-PulsarDataset
    python -m venv venv
    # Activate virtual environment
